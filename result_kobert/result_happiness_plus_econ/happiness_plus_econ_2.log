@@ -1,0 +1,203 @@
+using cached model
+using cached model
+using cached model
+epoch 1 batch id 1 loss 1.4930353164672852 train acc 0.25
+epoch 1 train acc 0.1893939393939394
+epoch 1 val acc 0.0625
+epoch 1 test acc 0.0625
+epoch 2 batch id 1 loss 1.2467560768127441 train acc 0.5
+epoch 2 train acc 0.3181818181818182
+epoch 2 val acc 0.5
+epoch 2 test acc 0.5625
+epoch 3 batch id 1 loss 1.2881629467010498 train acc 0.5
+epoch 3 train acc 0.3939393939393939
+epoch 3 val acc 0.5
+epoch 3 test acc 0.5625
+epoch 4 batch id 1 loss 0.8937616348266602 train acc 1.0
+epoch 4 train acc 0.4621212121212121
+epoch 4 val acc 0.5
+epoch 4 test acc 0.5625
+epoch 5 batch id 1 loss 0.7675014734268188 train acc 1.0
+epoch 5 train acc 0.4696969696969697
+epoch 5 val acc 0.5
+epoch 5 test acc 0.5625
+epoch 6 batch id 1 loss 0.7067676782608032 train acc 1.0
+epoch 6 train acc 0.49242424242424243
+epoch 6 val acc 0.5
+epoch 6 test acc 0.5625
+epoch 7 batch id 1 loss 0.7427480220794678 train acc 1.0
+epoch 7 train acc 0.49242424242424243
+epoch 7 val acc 0.5
+epoch 7 test acc 0.5625
+epoch 8 batch id 1 loss 0.7956148386001587 train acc 1.0
+epoch 8 train acc 0.49242424242424243
+epoch 8 val acc 0.5
+epoch 8 test acc 0.5625
+epoch 9 batch id 1 loss 0.7413864135742188 train acc 1.0
+epoch 9 train acc 0.49242424242424243
+epoch 9 val acc 0.3125
+epoch 9 test acc 0.375
+epoch 10 batch id 1 loss 0.9343231916427612 train acc 1.0
+epoch 10 train acc 0.5303030303030303
+epoch 10 val acc 0.4375
+epoch 10 test acc 0.375
+epoch 11 batch id 1 loss 0.7785028219223022 train acc 1.0
+epoch 11 train acc 0.5984848484848485
+epoch 11 val acc 0.375
+epoch 11 test acc 0.25
+epoch 12 batch id 1 loss 1.4566301107406616 train acc 0.0
+epoch 12 train acc 0.5833333333333334
+epoch 12 val acc 0.625
+epoch 12 test acc 0.625
+epoch 13 batch id 1 loss 0.5082404613494873 train acc 1.0
+epoch 13 train acc 0.6893939393939394
+epoch 13 val acc 0.4375
+epoch 13 test acc 0.6875
+epoch 14 batch id 1 loss 0.3217899799346924 train acc 1.0
+epoch 14 train acc 0.5454545454545454
+epoch 14 val acc 0.5
+epoch 14 test acc 0.625
+epoch 15 batch id 1 loss 0.21589583158493042 train acc 1.0
+epoch 15 train acc 0.696969696969697
+epoch 15 val acc 0.4375
+epoch 15 test acc 0.5
+epoch 16 batch id 1 loss 0.22911322116851807 train acc 1.0
+epoch 16 train acc 0.7424242424242424
+epoch 16 val acc 0.4375
+epoch 16 test acc 0.5
+epoch 17 batch id 1 loss 0.2397765815258026 train acc 1.0
+epoch 17 train acc 0.7954545454545454
+epoch 17 val acc 0.25
+epoch 17 test acc 0.4375
+epoch 18 batch id 1 loss 0.2701500654220581 train acc 1.0
+epoch 18 train acc 0.803030303030303
+epoch 18 val acc 0.4375
+epoch 18 test acc 0.625
+epoch 19 batch id 1 loss 0.1663787066936493 train acc 1.0
+epoch 19 train acc 0.8409090909090909
+epoch 19 val acc 0.4375
+epoch 19 test acc 0.5
+epoch 20 batch id 1 loss 0.12511146068572998 train acc 1.0
+epoch 20 train acc 0.8560606060606061
+epoch 20 val acc 0.375
+epoch 20 test acc 0.5
+epoch 21 batch id 1 loss 0.11054245382547379 train acc 1.0
+epoch 21 train acc 0.8181818181818182
+epoch 21 val acc 0.375
+epoch 21 test acc 0.5
+epoch 22 batch id 1 loss 0.08925215154886246 train acc 1.0
+epoch 22 train acc 0.8863636363636364
+epoch 22 val acc 0.5
+epoch 22 test acc 0.5
+epoch 23 batch id 1 loss 0.07207190990447998 train acc 1.0
+epoch 23 train acc 0.9166666666666666
+epoch 23 val acc 0.4375
+epoch 23 test acc 0.5625
+epoch 24 batch id 1 loss 0.06799707561731339 train acc 1.0
+epoch 24 train acc 0.9166666666666666
+epoch 24 val acc 0.5
+epoch 24 test acc 0.5625
+epoch 25 batch id 1 loss 0.04959797114133835 train acc 1.0
+epoch 25 train acc 0.9242424242424242
+epoch 25 val acc 0.5
+epoch 25 test acc 0.5625
+epoch 26 batch id 1 loss 0.03304696083068848 train acc 1.0
+epoch 26 train acc 0.9318181818181818
+epoch 26 val acc 0.5
+epoch 26 test acc 0.4375
+epoch 27 batch id 1 loss 0.02944294735789299 train acc 1.0
+epoch 27 train acc 0.9015151515151515
+epoch 27 val acc 0.375
+epoch 27 test acc 0.625
+epoch 28 batch id 1 loss 0.026064695790410042 train acc 1.0
+epoch 28 train acc 0.8787878787878788
+epoch 28 val acc 0.5
+epoch 28 test acc 0.375
+epoch 29 batch id 1 loss 0.15193356573581696 train acc 1.0
+epoch 29 train acc 0.9621212121212122
+epoch 29 val acc 0.5
+epoch 29 test acc 0.4375
+epoch 30 batch id 1 loss 0.026055987924337387 train acc 1.0
+epoch 30 train acc 0.9772727272727273
+epoch 30 val acc 0.5
+epoch 30 test acc 0.6875
+epoch 31 batch id 1 loss 0.0249955914914608 train acc 1.0
+epoch 31 train acc 0.9848484848484849
+epoch 31 val acc 0.4375
+epoch 31 test acc 0.6875
+epoch 32 batch id 1 loss 0.015001688152551651 train acc 1.0
+epoch 32 train acc 0.9924242424242424
+epoch 32 val acc 0.4375
+epoch 32 test acc 0.6875
+epoch 33 batch id 1 loss 0.016024036332964897 train acc 1.0
+epoch 33 train acc 0.9924242424242424
+epoch 33 val acc 0.375
+epoch 33 test acc 0.6875
+epoch 34 batch id 1 loss 0.015562853775918484 train acc 1.0
+epoch 34 train acc 0.9924242424242424
+epoch 34 val acc 0.375
+epoch 34 test acc 0.75
+epoch 35 batch id 1 loss 0.015394940972328186 train acc 1.0
+epoch 35 train acc 0.9924242424242424
+epoch 35 val acc 0.375
+epoch 35 test acc 0.75
+epoch 36 batch id 1 loss 0.015941523015499115 train acc 1.0
+epoch 36 train acc 0.9924242424242424
+epoch 36 val acc 0.375
+epoch 36 test acc 0.75
+epoch 37 batch id 1 loss 0.008921729400753975 train acc 1.0
+epoch 37 train acc 0.9924242424242424
+epoch 37 val acc 0.375
+epoch 37 test acc 0.75
+epoch 38 batch id 1 loss 0.008992170915007591 train acc 1.0
+epoch 38 train acc 0.9924242424242424
+epoch 38 val acc 0.375
+epoch 38 test acc 0.75
+epoch 39 batch id 1 loss 0.013551391661167145 train acc 1.0
+epoch 39 train acc 0.9924242424242424
+epoch 39 val acc 0.375
+epoch 39 test acc 0.75
+epoch 40 batch id 1 loss 0.010980434715747833 train acc 1.0
+epoch 40 train acc 1.0
+epoch 40 val acc 0.375
+epoch 40 test acc 0.75
+epoch 41 batch id 1 loss 0.010265238583087921 train acc 1.0
+epoch 41 train acc 1.0
+epoch 41 val acc 0.3125
+epoch 41 test acc 0.75
+epoch 42 batch id 1 loss 0.012114569544792175 train acc 1.0
+epoch 42 train acc 1.0
+epoch 42 val acc 0.375
+epoch 42 test acc 0.75
+epoch 43 batch id 1 loss 0.011305687017738819 train acc 1.0
+epoch 43 train acc 0.9924242424242424
+epoch 43 val acc 0.375
+epoch 43 test acc 0.75
+epoch 44 batch id 1 loss 0.01071260217577219 train acc 1.0
+epoch 44 train acc 1.0
+epoch 44 val acc 0.375
+epoch 44 test acc 0.75
+epoch 45 batch id 1 loss 0.010046504437923431 train acc 1.0
+epoch 45 train acc 1.0
+epoch 45 val acc 0.375
+epoch 45 test acc 0.75
+epoch 46 batch id 1 loss 0.006611897610127926 train acc 1.0
+epoch 46 train acc 1.0
+epoch 46 val acc 0.375
+epoch 46 test acc 0.75
+epoch 47 batch id 1 loss 0.010135053656995296 train acc 1.0
+epoch 47 train acc 1.0
+epoch 47 val acc 0.375
+epoch 47 test acc 0.75
+epoch 48 batch id 1 loss 0.008014936000108719 train acc 1.0
+epoch 48 train acc 1.0
+epoch 48 val acc 0.375
+epoch 48 test acc 0.75
+epoch 49 batch id 1 loss 0.00829936470836401 train acc 1.0
+epoch 49 train acc 1.0
+epoch 49 val acc 0.375
+epoch 49 test acc 0.75
+epoch 50 batch id 1 loss 0.0065016550943255424 train acc 1.0
+epoch 50 train acc 1.0
+epoch 50 val acc 0.375
+epoch 50 test acc 0.75

@@ -1,0 +1,760 @@
+************************************
+
+NAIVE BAYES RESULT
+
+======================
+result_all
+======================
+acc_train: 0.88837
+acc_val: 0.46667
+acc_test: 0.40909
+-------------------
+acc_train: 0.89767
+acc_val: 0.44444
+acc_test: 0.61364
+-------------------
+acc_train: 0.90233
+acc_val: 0.53333
+acc_test: 0.47727
+-------------------
+acc_train: 0.91667
+acc_val: 0.46667
+acc_test: 0.53488
+-------------------
+acc_train: 0.91204
+acc_val: 0.57778
+acc_test: 0.48837
+-------------------
+acc_train: 0.90741
+acc_val: 0.51111
+acc_test: 0.46512
+-------------------
+acc_train: 0.88426
+acc_val: 0.42222
+acc_test: 0.55814
+-------------------
+AVG_TRAIN: 0.90125
+AVG_VAL: 0.48889
+AVG_TEST: 0.50664
+======================
+result_happiness
+======================
+acc_train: 0.94118
+acc_val: 0.5
+acc_test: 0.64286
+-------------------
+acc_train: 0.97059
+acc_val: 0.57143
+acc_test: 0.71429
+-------------------
+acc_train: 0.95588
+acc_val: 0.5
+acc_test: 0.57143
+-------------------
+acc_train: 0.92647
+acc_val: 0.57143
+acc_test: 0.71429
+-------------------
+acc_train: 0.95588
+acc_val: 0.71429
+acc_test: 0.42857
+-------------------
+acc_train: 0.94118
+acc_val: 0.46667
+acc_test: 0.53846
+-------------------
+acc_train: 0.95588
+acc_val: 0.6
+acc_test: 0.53846
+-------------------
+AVG_TRAIN: 0.94958
+AVG_VAL: 0.56054
+AVG_TEST: 0.59262
+======================
+result_happiness_plus_econ
+======================
+acc_train: 0.89231
+acc_val: 0.5
+acc_test: 0.64286
+-------------------
+acc_train: 0.90769
+acc_val: 0.5
+acc_test: 0.64286
+-------------------
+acc_train: 0.88462
+acc_val: 0.5
+acc_test: 0.64286
+-------------------
+acc_train: 0.9
+acc_val: 0.57143
+acc_test: 0.71429
+-------------------
+acc_train: 0.9
+acc_val: 0.71429
+acc_test: 0.28571
+-------------------
+acc_train: 0.86923
+acc_val: 0.46667
+acc_test: 0.53846
+-------------------
+acc_train: 0.90769
+acc_val: 0.66667
+acc_test: 0.53846
+-------------------
+AVG_TRAIN: 0.89451
+AVG_VAL: 0.55986
+AVG_TEST: 0.57221
+======================
+result_happiness_plus_job
+======================
+acc_train: 0.90533
+acc_val: 0.5
+acc_test: 0.64286
+-------------------
+acc_train: 0.91716
+acc_val: 0.5
+acc_test: 0.71429
+-------------------
+acc_train: 0.88757
+acc_val: 0.5
+acc_test: 0.64286
+-------------------
+acc_train: 0.89349
+acc_val: 0.57143
+acc_test: 0.71429
+-------------------
+acc_train: 0.91124
+acc_val: 0.71429
+acc_test: 0.21429
+-------------------
+acc_train: 0.89349
+acc_val: 0.4
+acc_test: 0.53846
+-------------------
+acc_train: 0.90533
+acc_val: 0.6
+acc_test: 0.53846
+-------------------
+AVG_TRAIN: 0.90194
+AVG_VAL: 0.54082
+AVG_TEST: 0.57221
+======================
+result_happiness_plus_success
+======================
+acc_train: 0.9646
+acc_val: 0.64286
+acc_test: 0.64286
+-------------------
+acc_train: 0.97345
+acc_val: 0.57143
+acc_test: 0.64286
+-------------------
+acc_train: 0.9646
+acc_val: 0.42857
+acc_test: 0.5
+-------------------
+acc_train: 0.9292
+acc_val: 0.64286
+acc_test: 0.71429
+-------------------
+acc_train: 0.9646
+acc_val: 0.64286
+acc_test: 0.21429
+-------------------
+acc_train: 0.95575
+acc_val: 0.46667
+acc_test: 0.61538
+-------------------
+acc_train: 0.9646
+acc_val: 0.66667
+acc_test: 0.53846
+-------------------
+AVG_TRAIN: 0.95954
+AVG_VAL: 0.58027
+AVG_TEST: 0.55259
+======================
+result_happiness_plus_three
+======================
+acc_train: 0.87681
+acc_val: 0.64286
+acc_test: 0.71429
+-------------------
+acc_train: 0.88406
+acc_val: 0.5
+acc_test: 0.64286
+-------------------
+acc_train: 0.86232
+acc_val: 0.5
+acc_test: 0.64286
+-------------------
+acc_train: 0.87319
+acc_val: 0.64286
+acc_test: 0.64286
+-------------------
+acc_train: 0.85145
+acc_val: 0.71429
+acc_test: 0.21429
+-------------------
+acc_train: 0.87319
+acc_val: 0.6
+acc_test: 0.53846
+-------------------
+acc_train: 0.86232
+acc_val: 0.73333
+acc_test: 0.53846
+-------------------
+AVG_TRAIN: 0.86905
+AVG_VAL: 0.61905
+AVG_TEST: 0.56201
+======================
+result_job
+======================
+acc_train: 0.92958
+acc_val: 0.46667
+acc_test: 0.46667
+-------------------
+acc_train: 0.92958
+acc_val: 0.46667
+acc_test: 0.4
+-------------------
+acc_train: 0.94366
+acc_val: 0.46667
+acc_test: 0.4
+-------------------
+acc_train: 0.95833
+acc_val: 0.33333
+acc_test: 0.42857
+-------------------
+acc_train: 0.95833
+acc_val: 0.46667
+acc_test: 0.42857
+-------------------
+acc_train: 0.91667
+acc_val: 0.46667
+acc_test: 0.5
+-------------------
+acc_train: 0.95833
+acc_val: 0.46667
+acc_test: 0.57143
+-------------------
+AVG_TRAIN: 0.94207
+AVG_VAL: 0.44762
+AVG_TEST: 0.45646
+======================
+result_job_plus_econ
+======================
+acc_train: 0.91729
+acc_val: 0.53333
+acc_test: 0.4
+-------------------
+acc_train: 0.90977
+acc_val: 0.46667
+acc_test: 0.33333
+-------------------
+acc_train: 0.89474
+acc_val: 0.46667
+acc_test: 0.4
+-------------------
+acc_train: 0.8806
+acc_val: 0.33333
+acc_test: 0.5
+-------------------
+acc_train: 0.88806
+acc_val: 0.46667
+acc_test: 0.42857
+-------------------
+acc_train: 0.88806
+acc_val: 0.26667
+acc_test: 0.64286
+-------------------
+acc_train: 0.92537
+acc_val: 0.46667
+acc_test: 0.57143
+-------------------
+AVG_TRAIN: 0.90056
+AVG_VAL: 0.42857
+AVG_TEST: 0.46803
+======================
+result_job_plus_happiness
+======================
+acc_train: 0.92216
+acc_val: 0.6
+acc_test: 0.4
+-------------------
+acc_train: 0.91018
+acc_val: 0.53333
+acc_test: 0.33333
+-------------------
+acc_train: 0.8982
+acc_val: 0.46667
+acc_test: 0.46667
+-------------------
+acc_train: 0.91667
+acc_val: 0.4
+acc_test: 0.5
+-------------------
+acc_train: 0.92262
+acc_val: 0.53333
+acc_test: 0.42857
+-------------------
+acc_train: 0.89881
+acc_val: 0.46667
+acc_test: 0.5
+-------------------
+acc_train: 0.92262
+acc_val: 0.46667
+acc_test: 0.5
+-------------------
+AVG_TRAIN: 0.91304
+AVG_VAL: 0.49524
+AVG_TEST: 0.44694
+======================
+result_job_plus_success
+======================
+acc_train: 0.87931
+acc_val: 0.53333
+acc_test: 0.46667
+-------------------
+acc_train: 0.88793
+acc_val: 0.6
+acc_test: 0.46667
+-------------------
+acc_train: 0.86207
+acc_val: 0.46667
+acc_test: 0.46667
+-------------------
+acc_train: 0.87179
+acc_val: 0.4
+acc_test: 0.42857
+-------------------
+acc_train: 0.88889
+acc_val: 0.53333
+acc_test: 0.42857
+-------------------
+acc_train: 0.88889
+acc_val: 0.46667
+acc_test: 0.5
+-------------------
+acc_train: 0.90598
+acc_val: 0.4
+acc_test: 0.42857
+-------------------
+AVG_TRAIN: 0.88355
+AVG_VAL: 0.48571
+AVG_TEST: 0.4551
+======================
+result_job_plus_three
+======================
+acc_train: 0.89888
+acc_val: 0.53333
+acc_test: 0.4
+-------------------
+acc_train: 0.88202
+acc_val: 0.53333
+acc_test: 0.46667
+-------------------
+acc_train: 0.88764
+acc_val: 0.46667
+acc_test: 0.46667
+-------------------
+acc_train: 0.88268
+acc_val: 0.4
+acc_test: 0.57143
+-------------------
+acc_train: 0.87709
+acc_val: 0.53333
+acc_test: 0.42857
+-------------------
+acc_train: 0.89944
+acc_val: 0.53333
+acc_test: 0.5
+-------------------
+acc_train: 0.91061
+acc_val: 0.46667
+acc_test: 0.5
+-------------------
+AVG_TRAIN: 0.8912
+AVG_VAL: 0.49524
+AVG_TEST: 0.47619
+
+
+
+************************************
+
+LOGISTIC REGRESSION RESULT 
+
+======================
+result_all
+======================
+acc_train: 1.0
+acc_val: 0.42222
+acc_test: 0.31818
+-------------------
+acc_train: 1.0
+acc_val: 0.35556
+acc_test: 0.52273
+-------------------
+acc_train: 1.0
+acc_val: 0.46667
+acc_test: 0.47727
+-------------------
+acc_train: 1.0
+acc_val: 0.44444
+acc_test: 0.4186
+-------------------
+acc_train: 1.0
+acc_val: 0.44444
+acc_test: 0.5814
+-------------------
+acc_train: 1.0
+acc_val: 0.46667
+acc_test: 0.4186
+-------------------
+acc_train: 1.0
+acc_val: 0.48889
+acc_test: 0.39535
+-------------------
+AVG_TRAIN: 1.0
+AVG_VAL: 0.44127
+AVG_TEST: 0.44745
+======================
+result_happiness
+======================
+acc_train: 1.0
+acc_val: 0.5
+acc_test: 0.64286
+-------------------
+acc_train: 1.0
+acc_val: 0.5
+acc_test: 0.57143
+-------------------
+acc_train: 1.0
+acc_val: 0.42857
+acc_test: 0.42857
+-------------------
+acc_train: 1.0
+acc_val: 0.42857
+acc_test: 0.71429
+-------------------
+acc_train: 1.0
+acc_val: 0.5
+acc_test: 0.28571
+-------------------
+acc_train: 1.0
+acc_val: 0.53333
+acc_test: 0.61538
+-------------------
+acc_train: 1.0
+acc_val: 0.53333
+acc_test: 0.53846
+-------------------
+AVG_TRAIN: 1.0
+AVG_VAL: 0.48912
+AVG_TEST: 0.54239
+======================
+result_happiness_plus_econ
+======================
+acc_train: 1.0
+acc_val: 0.42857
+acc_test: 0.5
+-------------------
+acc_train: 1.0
+acc_val: 0.5
+acc_test: 0.57143
+-------------------
+acc_train: 1.0
+acc_val: 0.57143
+acc_test: 0.42857
+-------------------
+acc_train: 1.0
+acc_val: 0.42857
+acc_test: 0.71429
+-------------------
+acc_train: 1.0
+acc_val: 0.5
+acc_test: 0.28571
+-------------------
+acc_train: 1.0
+acc_val: 0.46667
+acc_test: 0.53846
+-------------------
+acc_train: 1.0
+acc_val: 0.46667
+acc_test: 0.46154
+-------------------
+AVG_TRAIN: 1.0
+AVG_VAL: 0.48027
+AVG_TEST: 0.5
+======================
+result_happiness_plus_job
+======================
+acc_train: 1.0
+acc_val: 0.5
+acc_test: 0.64286
+-------------------
+acc_train: 1.0
+acc_val: 0.42857
+acc_test: 0.71429
+-------------------
+acc_train: 1.0
+acc_val: 0.57143
+acc_test: 0.5
+-------------------
+acc_train: 1.0
+acc_val: 0.57143
+acc_test: 0.57143
+-------------------
+acc_train: 1.0
+acc_val: 0.64286
+acc_test: 0.28571
+-------------------
+acc_train: 1.0
+acc_val: 0.73333
+acc_test: 0.69231
+-------------------
+acc_train: 1.0
+acc_val: 0.46667
+acc_test: 0.53846
+-------------------
+AVG_TRAIN: 1.0
+AVG_VAL: 0.55918
+AVG_TEST: 0.56358
+======================
+result_happiness_plus_success
+======================
+acc_train: 1.0
+acc_val: 0.5
+acc_test: 0.78571
+-------------------
+acc_train: 1.0
+acc_val: 0.35714
+acc_test: 0.57143
+-------------------
+acc_train: 1.0
+acc_val: 0.42857
+acc_test: 0.5
+-------------------
+acc_train: 1.0
+acc_val: 0.5
+acc_test: 0.64286
+-------------------
+acc_train: 1.0
+acc_val: 0.64286
+acc_test: 0.35714
+-------------------
+acc_train: 1.0
+acc_val: 0.66667
+acc_test: 0.61538
+-------------------
+acc_train: 1.0
+acc_val: 0.66667
+acc_test: 0.53846
+-------------------
+AVG_TRAIN: 1.0
+AVG_VAL: 0.53741
+AVG_TEST: 0.573
+======================
+result_happiness_plus_three
+======================
+acc_train: 1.0
+acc_val: 0.57143
+acc_test: 0.57143
+-------------------
+acc_train: 1.0
+acc_val: 0.42857
+acc_test: 0.78571
+-------------------
+acc_train: 1.0
+acc_val: 0.5
+acc_test: 0.5
+-------------------
+acc_train: 1.0
+acc_val: 0.57143
+acc_test: 0.71429
+-------------------
+acc_train: 1.0
+acc_val: 0.57143
+acc_test: 0.35714
+-------------------
+acc_train: 1.0
+acc_val: 0.66667
+acc_test: 0.69231
+-------------------
+acc_train: 1.0
+acc_val: 0.6
+acc_test: 0.53846
+-------------------
+AVG_TRAIN: 1.0
+AVG_VAL: 0.5585
+AVG_TEST: 0.59419
+======================
+result_job
+======================
+acc_train: 1.0
+acc_val: 0.53333
+acc_test: 0.26667
+-------------------
+acc_train: 1.0
+acc_val: 0.4
+acc_test: 0.53333
+-------------------
+acc_train: 1.0
+acc_val: 0.4
+acc_test: 0.33333
+-------------------
+acc_train: 1.0
+acc_val: 0.33333
+acc_test: 0.28571
+-------------------
+acc_train: 1.0
+acc_val: 0.46667
+acc_test: 0.42857
+-------------------
+acc_train: 1.0
+acc_val: 0.4
+acc_test: 0.28571
+-------------------
+acc_train: 1.0
+acc_val: 0.4
+acc_test: 0.42857
+-------------------
+AVG_TRAIN: 1.0
+AVG_VAL: 0.41905
+AVG_TEST: 0.36599
+======================
+result_job_plus_econ
+======================
+acc_train: 1.0
+acc_val: 0.6
+acc_test: 0.4
+-------------------
+acc_train: 1.0
+acc_val: 0.46667
+acc_test: 0.46667
+-------------------
+acc_train: 1.0
+acc_val: 0.4
+acc_test: 0.4
+-------------------
+acc_train: 1.0
+acc_val: 0.33333
+acc_test: 0.28571
+-------------------
+acc_train: 1.0
+acc_val: 0.46667
+acc_test: 0.71429
+-------------------
+acc_train: 1.0
+acc_val: 0.26667
+acc_test: 0.35714
+-------------------
+acc_train: 1.0
+acc_val: 0.26667
+acc_test: 0.64286
+-------------------
+AVG_TRAIN: 1.0
+AVG_VAL: 0.4
+AVG_TEST: 0.46667
+======================
+result_job_plus_happiness
+======================
+acc_train: 1.0
+acc_val: 0.6
+acc_test: 0.46667
+-------------------
+acc_train: 1.0
+acc_val: 0.33333
+acc_test: 0.4
+-------------------
+acc_train: 1.0
+acc_val: 0.46667
+acc_test: 0.46667
+-------------------
+acc_train: 1.0
+acc_val: 0.4
+acc_test: 0.28571
+-------------------
+acc_train: 1.0
+acc_val: 0.53333
+acc_test: 0.35714
+-------------------
+acc_train: 1.0
+acc_val: 0.53333
+acc_test: 0.42857
+-------------------
+acc_train: 1.0
+acc_val: 0.4
+acc_test: 0.42857
+-------------------
+AVG_TRAIN: 1.0
+AVG_VAL: 0.46667
+AVG_TEST: 0.40476
+======================
+result_job_plus_success
+======================
+acc_train: 1.0
+acc_val: 0.4
+acc_test: 0.26667
+-------------------
+acc_train: 1.0
+acc_val: 0.33333
+acc_test: 0.53333
+-------------------
+acc_train: 1.0
+acc_val: 0.26667
+acc_test: 0.4
+-------------------
+acc_train: 1.0
+acc_val: 0.33333
+acc_test: 0.28571
+-------------------
+acc_train: 1.0
+acc_val: 0.4
+acc_test: 0.57143
+-------------------
+acc_train: 1.0
+acc_val: 0.46667
+acc_test: 0.42857
+-------------------
+acc_train: 1.0
+acc_val: 0.4
+acc_test: 0.42857
+-------------------
+AVG_TRAIN: 1.0
+AVG_VAL: 0.37143
+AVG_TEST: 0.41633
+======================
+result_job_plus_three
+======================
+acc_train: 1.0
+acc_val: 0.53333
+acc_test: 0.33333
+-------------------
+acc_train: 1.0
+acc_val: 0.4
+acc_test: 0.4
+-------------------
+acc_train: 1.0
+acc_val: 0.33333
+acc_test: 0.46667
+-------------------
+acc_train: 1.0
+acc_val: 0.33333
+acc_test: 0.28571
+-------------------
+acc_train: 1.0
+acc_val: 0.33333
+acc_test: 0.57143
+-------------------
+acc_train: 1.0
+acc_val: 0.33333
+acc_test: 0.28571
+-------------------
+acc_train: 1.0
+acc_val: 0.26667
+acc_test: 0.64286
+-------------------
+AVG_TRAIN: 1.0
+AVG_VAL: 0.3619
+AVG_TEST: 0.42653
+
